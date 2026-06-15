@@ -1,0 +1,50 @@
+
+style.css
+
+body{
+    margin:0;
+    font-family: Arial, sans-serif;
+    background:#f4f4f4;
+}
+
+header{
+    background:#333;
+    color:white;
+    text-align:center;
+    padding:20px;
+}
+
+nav{
+    margin-top:10px;
+}
+
+nav a{
+    color:white;
+    text-decoration:none;
+    margin:0 15px;
+}
+
+section{
+    width:80%;
+    margin:auto;
+    margin-top:20px;
+    background:white;
+    padding:20px;
+    border-radius:5px;
+}
+
+h2{
+    color:#333;
+}
+
+input,textarea{
+    width:100%;
+    padding:8px;
+}
+
+button{
+    background:#333;
+    color:white;
+    border:none;
+    padding:10px 20px;
+}
